@@ -13,7 +13,7 @@ Based on this received message, device/devices will take appropriate action/acti
 **Steps:**
 
 There are many steps and each step really matters a lot.
-Please go through the [video tutorial.] (https://www.youtube.com/watch?v=ekav8Le5a7U#action=share)
+Please go through the [video tutorial](https://www.youtube.com/watch?v=ekav8Le5a7U#action=share)
 
 Make sure you have installed the Adafruit's MQTT library and have created the account with Adafruit. Cautiously notedown the **'Private Key'** and **'Username'**.
 Also, the names of 'feeds' are **case sensetive.**
