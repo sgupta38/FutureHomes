@@ -3,8 +3,6 @@ IoT based home automation.
 
 This project is for getting familiar with various home automation protocols and the hardware used for controlling various devices like Light, Camera, AC, Motors etc.
 
-# TEAM  NAME: Quadruples
-
 **PROJECT   TYPE:** Custom
 
 **PROJECT   TITLE:** Home automation system using IoT. 
@@ -39,15 +37,12 @@ There are myriad number of devices, each having different comminication protocol
 
 ## IMP FUNCTIONS.
 
-
 **void setup()**
 
-**Description: **
 The setup() function is called when a sketch starts. Use it to initialize variables, pin modes, start using libraries, etc. The setup() function will only run once, after each powerup or reset of the Arduino board.
 
 **void loop()**
 
-**Description: **
 After creating a setup() function, which initializes and sets the initial values, the loop() function does precisely what its name suggests, and loops consecutively, allowing your program to change and respond. Use it to actively control the Arduino board.
 
 For more details: https://www.arduino.cc/reference/en/#functions
