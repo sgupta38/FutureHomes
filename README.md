@@ -1,6 +1,8 @@
 # FutureHomes
 IoT based home automation.
 
+**Note:** Directory structure is temporary. All these directories will be moved to another location once the actual work starts.
+
 This project is for getting familiar with various home automation protocols and the hardware used for controlling various devices like Light, Camera, AC, Motors etc.
 
 **PROJECT   TYPE:** Custom
