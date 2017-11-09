@@ -10,3 +10,5 @@ Steps:
 3. Connect the device and check for its basic configurations like Communication Port, Baud rate etc.
 4. Upload the program.
 5. When Done, LED will start blinking. 
+
+For LED connected with jumper wires, HIGH value glows LED and LOW value stops glowing LED. This behaviour is contradictory when built-in LED is blinked.
