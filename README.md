@@ -16,7 +16,8 @@ This project is for getting familiar with various home automation protocols and 
 3. Bread Board
 4. LEDs and Jumper Cables
 5. Relays based on current requirement.
-5. Embedded C
+6. Embedded C
+7. Python for scripting OTA
 
 **BASIC SCHEDULE:**
 
@@ -27,9 +28,12 @@ This project is for getting familiar with various home automation protocols and 
        i. Get familiar with NodeMCU, mqtt protocol.
        ii. Hardware requirements discussion & finalization.
        iii. Finalizing the cloud service for mqtt broker.
+    b. Date:  15 December 2017
+       i. Learn OTA in esp8266
+       ii. Integration with GSM/GPRS
 4. Milestone 2:
     a. Date:  1 January 2018,   
-       i. Integration and First Demo.
+       i. Integration and First Demo with WiFi and GPRS.
 
 **EXPECTED  RESULTS:**
 
