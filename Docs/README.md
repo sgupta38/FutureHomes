@@ -23,17 +23,14 @@ This project is for getting familiar with various home automation protocols and 
 
 1. Team will finalize the requirements
 2. Distribution of indivisual task, discussion and integration.
-3. Milestone 1:  
-    a. Date:  1 December 2017<br/>   
-       i. Get familiar with NodeMCU, mqtt protocol.<br/>
-       ii. Hardware requirements discussion & finalization.<br/>
-       iii. Finalizing the cloud service for mqtt broker. <br/>
-    b. Date:  15 December 2017 </br>
-       i. Learn OTA in esp8266. <br/>
-       ii. Integration with GSM/GPRS. <br/>
-4. Milestone 2:
-    a. Date:  1 January 2018 <br/>
-       i. Integration and First Demo with WiFi and GPRS.<br/>
+3. Milestone 1:  </br>
+    - [x] Get familiar with NodeMCU, mqtt protocol.
+    - [x] Hardware requirements discussion & finalization.
+    - [x] Finalizing the cloud service for mqtt broker.
+    - [ ] Learn OTA in esp8266.
+    - [ ] Integration with GSM/GPRS.
+4. Milestone 2:</br>
+    - [ ] Integration and First Demo with WiFi and GPRS.
 
 **EXPECTED  RESULTS:**
 
