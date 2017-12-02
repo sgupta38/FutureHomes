@@ -28,7 +28,7 @@ This project is for getting familiar with various home automation protocols and 
        i. Get familiar with NodeMCU, mqtt protocol.<br/>
        ii. Hardware requirements discussion & finalization.<br/>
        iii. Finalizing the cloud service for mqtt broker. <br/>
-    b. Date:  15 December 2017
+    b. Date:  15 December 2017 </br>
        i. Learn OTA in esp8266. <br/>
        ii. Integration with GSM/GPRS. <br/>
 4. Milestone 2:
@@ -52,3 +52,7 @@ The setup() function is called when a sketch starts. Use it to initialize variab
 After creating a setup() function, which initializes and sets the initial values, the loop() function does precisely what its name suggests, and loops consecutively, allowing your program to change and respond. Use it to actively control the Arduino board.
 
 For more details: https://www.arduino.cc/reference/en/#functions
+
+**PIN structures**
+
+Please refer the PIN_structures image whenver deciding the GPIO pin numbers before hardcoding them in your code. Often people get confused with onboard pin numbers and GPIO pin numbers. This image will always help you in clearing your confusion regarding PIN numbers.
