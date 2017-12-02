@@ -1,4 +1,4 @@
-**Limitation With the Browser approach.**
+**Limitation With the Previous Browser approach example 2.**
 
 [Example 2. Blink using Browser](https://github.com/sonugupta4636/FutureHomes/tree/master/2.%20Blink%20using%20Browser)
 
