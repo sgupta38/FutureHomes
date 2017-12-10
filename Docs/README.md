@@ -30,6 +30,7 @@ This project is for getting familiar with various home automation protocols and 
     - [x] Learn OTA in esp8266.
    
 4. Milestone 2: **1 Januray 2018**</br>
+    - [ ] Mongoose OS deployment on ESP8266 for integration with AWS.
     - [ ] Integration with AWS.
     - [ ] GSM/GPRS support along with MQTT.
     - [ ] Integration and First Demo with WiFi and GPRS.
