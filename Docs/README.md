@@ -1,6 +1,8 @@
 # FutureHomes
 ### IoT based home automation.
 
+-------------------------------------
+
 **Note:** Directory structure is temporary. All these directories will be moved to another location once the actual work starts.
 
 This project is for getting familiar with various home automation protocols and the hardware used for controlling various devices like Light, Camera, AC, Motors etc.
@@ -20,6 +22,7 @@ This project is for getting familiar with various home automation protocols and 
 7. Python for scripting OTA
 
 **BASIC SCHEDULE:**
+-----
 
 1. Team will finalize the requirements
 2. Distribution of indivisual task, discussion and integration.
@@ -37,12 +40,14 @@ This project is for getting familiar with various home automation protocols and 
     - [ ] Integration and First Demo with WiFi and GPRS.
 
 **EXPECTED  RESULTS:**
+-----
 
 The main crux of the project is to make future homes smarter and energy efficient. The focus is to connect all basic household devices using IoT.
 There are myriad number of devices, each having different comminication protocols. Need to identify and find workaround for making all of them work in an uniform way.
 
 
 ## IMP FUNCTIONS.
+-----
 
 **void setup()**
 
